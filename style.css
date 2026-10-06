@@ -165,7 +165,7 @@ form option {
   form textarea,
   form select, form .email{
     margin-bottom: 12px;
-    width: 30em;
+    width: 20em;
   }
   form .no,
   form .bt{
@@ -174,7 +174,7 @@ form option {
 }
 
 .btn{
-  padding: 2em 11.5em;
+  padding: 1em 8.5em;
 }
 }
 
